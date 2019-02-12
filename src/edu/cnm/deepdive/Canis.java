@@ -4,6 +4,7 @@ public abstract class Canis {
 
  public static final int NUMBER_OF_LEGS = 4;
  
+ 
  public Canis() {
    System.out.println("CanisLupis::new");
  }
